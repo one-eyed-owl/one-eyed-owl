@@ -1,16 +1,19 @@
-### Hi there 👋
+<p >
+  <img align="right" src="https://c.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif" width="250">
+</p>
 
-<!--
-**one-eyed-owl/one-eyed-owl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Skills </p>
+<p >
+<img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Contact me: <p>
+<p align="left">
+<a href="https://t.me/tema0x0" target="_blank">
+<img src="https://img.shields.io/badge/Telegram%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+</a>
+</p>
